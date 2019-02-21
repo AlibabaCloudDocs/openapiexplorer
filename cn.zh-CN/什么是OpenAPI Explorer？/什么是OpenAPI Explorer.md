@@ -6,7 +6,7 @@ OpenAPI Explorer登录地址：[https://api.aliyun.com](https://api.aliyun.com/)
 
 **说明：** OpenAPI Explorer是一款免费的API调用工具。如果您在OpenAPI Explorer中通过调用API创建云资源，则可能会产生相应的费用。具体请参考各个云产品的文档。
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/100073/154892451037067_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/100073/154892580437067_zh-CN.png)
 
 OpenAPI Explorer提供以下功能：
 
