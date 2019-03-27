@@ -6,7 +6,7 @@ The URL of the OpenAPI Explorer is [https://api.aliyun.com](https://api.aliyun.c
 
 **说明：** OpenAPI Explorer is a free API calling tool. You may be billed if you use an API to create a cloud resource, such as an ECS instance. Refer to the documentation of each cloud product for details.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/100073/155021123037067_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/100073/155367724537067_en-US.png)
 
 OpenAPI Explorer provides the following functions:
 
