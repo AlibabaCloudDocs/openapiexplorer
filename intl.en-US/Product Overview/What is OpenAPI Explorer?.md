@@ -4,9 +4,9 @@ OpenAPI Explorer is a web-based, visual API calling tool. You can call Alibaba C
 
 The URL of the OpenAPI Explorer is [https://api.aliyun.com](https://api.aliyun.com/).
 
-**说明：** OpenAPI Explorer is a free API calling tool. You may be billed if you use an API to create a cloud resource, such as an ECS instance. Refer to the documentation of each cloud product for details.
+**Note:** OpenAPI Explorer is a free API calling tool. You may be billed if you use an API to create a cloud resource, such as an ECS instance. Refer to the documentation of each cloud product for details.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/100073/155367724537067_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/100073/156171556137067_en-US.png)
 
 OpenAPI Explorer provides the following functions:
 
@@ -35,7 +35,7 @@ OpenAPI Explorer provides the following functions:
     You can manage your cloud resources in the OpenAPI Explorer by using Cloud Shell, a web-based CLI tool.
 
 
-## Scenario { .section}
+## Scenario {#section_wq9_7zt_jwi .section}
 
 OpenAPI Explorer is dedicated to helping you easily find and use Alibaba Cloud product APIs to develop your own application based on Alibaba Cloud. You can use the OpenAPI Explorer to find which APIs are provided by Alibaba Cloud, view API definitions. OpenAPI Explorer is applicable to scenarios such as API debugging and troubleshooting.
 
